@@ -1,9 +1,9 @@
 # MRI_brain_tumor_classification
 Developed a CNN (Image Classification) model using a public MRI dataset from Kaggle that classifies brain MRI images into one of four categories: no tumor, pituitary tumor, glioma tumor, and meningioma tumor. 
 
-Achieved a 94.00% Test accuracy, 95.03% Test Precision, 94.00% Recall and 93.95% F1 score in 21 epochs. 
-
 I've included detailed commentary explaining each step and how to interpret the code and results. Even if you're new to Python or machine learning, I break down each section clearly—from convolution layers to dense layers to F1 scores. Feel free to explore the final product!
+
+Data source: Kraggle Public Dataset "Brain Tumor MRI Dataset" by Masoud Nickparvar.
 
 ### 🧠 Key Findings  
 **Final Test Accuracy**: **94.00%**  
